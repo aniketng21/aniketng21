@@ -1,8 +1,8 @@
 ### Hello Everyone! Welcome to my profile... 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashiishkarhade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashiishkarhade&screen_name=ashiishkarhade)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AniketG70525589?style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
+![](https://komarev.com/ghpvc/?username=aniketng21&color=green)
 
 - 🔭 I’m currently working on **Machine Learning and Data Analytics** to solve business problem statements.
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
