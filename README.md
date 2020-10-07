@@ -1,7 +1,4 @@
 ### Hello Everyone! Welcome to my profile... 👋
-
-<!--
-**aniketng21/aniketng21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashiishkarhade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashiishkarhade&screen_name=ashiishkarhade)
 
 ![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
