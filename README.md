@@ -48,5 +48,5 @@
 
 [website]: https://aniketng21.github.io
 [twitter]: https://twitter.com/AniketG70525589
-[instagram]: https://instagram.com/aniketng21600
+[instagram]: https://instagram.com/aniketng_21600
 [linkedin]: https://linkedin.com/in/aniket-gaikwad-57bb88147
