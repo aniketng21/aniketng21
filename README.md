@@ -1,15 +1,16 @@
 ### Hello Everyone! Welcome to my profile... 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashiishkarhade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashiishkarhade&screen_name=ashiishkarhade)
 
 ![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning** to help in EdTech industries.
-- 🌱 I’m currently learning **NLP & CV.**
+- 🔭 I’m currently working on **Machine Learning and Data Analytics** to solve business problem statements.
+- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 - 👯 I’m looking to collaborate on bulding communities, building startup 😉
 - 💬 Ask me about Data Science, Machine Learning, Career, etc.
-- 📫 How to reach me: [akarhade5@gmail.com](mailto:akarhade5@gmail.com)
+- 📫 How to reach me: [aniketng21@gmail.com](mailto:aniketng21@gmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am crazy about **Apple** products
+- ⚡ Fun fact: I love to play with data.
 
 
 <!--
@@ -19,10 +20,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ashiishkarhade.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ashiishkarhade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ashiishkarhade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="aniketng21.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="aniketng21 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aniketng21 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aniketng21 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,8 +51,7 @@
 </details>
 -->
 
-[website]: https://ashiishkarhade.github.io
-[twitter]: https://twitter.com/ashiishkarhade
-[youtube]: https://youtube.com/ashiishkarhade
-[instagram]: https://instagram.com/ashiishkarhade
-[linkedin]: https://linkedin.com/in/ashiishkarhade
+[website]: https://aniketng21.github.io
+[twitter]: https://twitter.com/AniketG70525589
+[instagram]: https://instagram.com/aniketng21600
+[linkedin]: https://linkedin.com/in/aniket-gaikwad-57bb88147
