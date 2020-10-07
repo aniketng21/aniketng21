@@ -1,6 +1,6 @@
 ### Hello Everyone! Welcome to my profile... 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AniketG70525589?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/AniketG70525589?style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=aniketng21&color=green)
 
