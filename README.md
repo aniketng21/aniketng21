@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Analytics** to solve business problem statements.
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
-- 👯 I’m looking to collaborate on bulding communities, building startup 😉
 - 💬 Ask me about Data Science, Machine Learning, Career, etc.
 - 📫 How to reach me: [aniketng21@gmail.com](mailto:aniketng21@gmail.com)
 - 😄 Pronouns: He/him
