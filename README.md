@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniket-gaikwad-57bb88147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-gaikwad-57bb88147" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aniket-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aniket-gaikwad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12383253/aniket-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aniket-gaikwad" height="30" width="40" /></a>
 <a href="https://kaggle.com/aniketng21600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aniketng21600" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniketng21600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketng21600" height="30" width="40" /></a>
 </p>
